@@ -1,5 +1,5 @@
 # card006
-NFT glassmorphic card HTML & CSS 
+NFT glassmorphic card - HTML & CSS only. 
 
 
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/card006/
